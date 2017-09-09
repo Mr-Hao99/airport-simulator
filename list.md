@@ -1,14 +1,15 @@
 # class
 
 ## CheckPoint
-* void add();
+* void addPassenger();
 * void pasue();
+* void start();
 * int getNum();
 * bool getState();
 
 ## SerpQueue
-* void add();
-* bool isfull();
+* void addPassenger();
+* bool isFull();
 * int getNum();
 
 ## RestArea
